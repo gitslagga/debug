@@ -1,0 +1,12 @@
+{
+    "name": "jean/debug",
+    "description": "this is a debug repo from composer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jean",
+            "email": "957766762@qq.com"
+        }
+    ],
+    "require": {}
+}
