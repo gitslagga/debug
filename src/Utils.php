@@ -1,7 +1,7 @@
 <?php
-namespace Jean\Library;
+namespace Jean\Utils;
 
-class Utils
+class Hello
 {
     private $name;
     public function __construct($name = 'World')
