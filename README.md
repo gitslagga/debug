@@ -11,7 +11,7 @@ $ touch test.php
 <?php
 require_once "vendor/autoload.php";
 
-$utils = new Jean\Library\Utils();
+$utils = new Jean\Utils\Hello();
 echo $utils->hello();
 ```
 
